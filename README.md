@@ -1,4 +1,5 @@
-<h2 align="left">Hello World, I'm Clara Araujo Welcome to my profile!</h2>
+<h2 align="left">
+Meu nome é Maria Clara Araujo, tenho 16 anos e sou estudante do terceiro ano do curso de informática na EEEP Joaquim. Estou muito animada para começar a explorar o mundo do desenvolvimento por aqui, aprender com outros desenvolvedores e compartilhar meus projetos.</h2>
 
 ###
 <div align="center">
